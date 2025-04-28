@@ -1,9 +1,8 @@
-- 👋 Hi, I’m @ryanlima75
-- 👀 I’m interested in Web Design FrontEnd
-- 🌱 I’m currently learning HTML5 e CSS3
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me projetos de desenvolvimento de páginas de site
-- 😄 Pronouns: ...
+- 👋 Hi, I’m Ryan Carlos Lima.
+- 👀 I’m interested in Web Design FrontEnd.
+- 🌱 I’m currently learning HTML5 e CSS3.
+- 💞️ I’m looking to collaborate on projetos de desenvolvimento de páginas de site.
+- 📫 How to reach me: Instagram (lima_ry_) GitHub (ryanlima75).
 - ⚡ Fun fact: ...
 
 <!---
